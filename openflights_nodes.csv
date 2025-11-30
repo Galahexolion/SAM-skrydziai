@@ -1,0 +1,72 @@
+ID,Name,City,Country,Latitude,Longitude,Altitude,Timezone
+BRU,Brussels Airport,Brussels,Belgium,50.9014015198,4.48443984985,184,1.0
+CRL,Brussels South Charleroi Airport,Charleroi,Belgium,50.459202,4.45382,614,1.0
+FRA,Frankfurt am Main Airport,Frankfurt,Germany,50.033333,8.570556,364,1.0
+HAM,Hamburg Airport,Hamburg,Germany,53.630401611328,9.9882297515869,53,1.0
+CGN,Cologne Bonn Airport,Cologne,Germany,50.8658981323,7.1427397728,302,1.0
+DUS,Düsseldorf Airport,Duesseldorf,Germany,51.289501,6.76678,147,1.0
+MUC,Munich Airport,Munich,Germany,48.353802,11.7861,1487,1.0
+STR,Stuttgart Airport,Stuttgart,Germany,48.6898994446,9.22196006775,1276,1.0
+TXL,Berlin-Tegel Airport,Berlin,Germany,52.5597,13.2877,122,1.0
+HEL,Helsinki Vantaa Airport,Helsinki,Finland,60.317199707031,24.963300704956,179,2.0
+BHX,Birmingham International Airport,Birmingham,United Kingdom,52.4538993835,-1.74802994728,327,0.0
+MAN,Manchester Airport,Manchester,United Kingdom,53.35369873046875,-2.2749500274658203,257,0.0
+BRS,Bristol Airport,Bristol,United Kingdom,51.382702,-2.71909,622,0.0
+LTN,London Luton Airport,London,United Kingdom,51.874698638916016,-0.3683330118656158,526,0.0
+LGW,London Gatwick Airport,London,United Kingdom,51.148102,-0.190278,202,0.0
+LHR,London Heathrow Airport,London,United Kingdom,51.4706,-0.461941,83,0.0
+LBA,Leeds Bradford Airport,Leeds,United Kingdom,53.86589813232422,-1.6605700254440308,681,0.0
+NCL,Newcastle Airport,Newcastle,United Kingdom,55.03749847412109,-1.6916699409484863,266,0.0
+EMA,East Midlands Airport,East Midlands,United Kingdom,52.8311004639,-1.32806003094,306,0.0
+GLA,Glasgow International Airport,Glasgow,United Kingdom,55.8718986511,-4.43306016922,26,0.0
+EDI,Edinburgh Airport,Edinburgh,United Kingdom,55.95000076293945,-3.372499942779541,135,0.0
+STN,London Stansted Airport,London,United Kingdom,51.8849983215,0.234999999404,348,0.0
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,52.308601,4.76389,-11,1.0
+DUB,Dublin Airport,Dublin,Ireland,53.421299,-6.27007,242,0.0
+CPH,Copenhagen Kastrup Airport,Copenhagen,Denmark,55.617900848389,12.656000137329,17,1.0
+OSL,Oslo Lufthavn,Oslo,Norway,60.121,11.0502,681,1.0
+WAW,Warsaw Chopin Airport,Warsaw,Poland,52.1656990051,20.9671001434,362,1.0
+ARN,Stockholm-Arlanda Airport,Stockholm,Sweden,59.651901245117,17.918600082397,137,1.0
+FUE,Fuerteventura Airport,Fuerteventura,Spain,28.452699661254883,-13.863800048828123,85,0.0
+LPA,Gran Canaria Airport,Gran Canaria,Spain,27.931900024414062,-15.38659954071045,78,0.0
+ACE,Lanzarote Airport,Arrecife,Spain,28.945499,-13.6052,46,0.0
+TFS,Tenerife South Airport,Tenerife,Spain,28.044500351,-16.5725002289,209,0.0
+ALC,Alicante International Airport,Alicante,Spain,38.28219985961914,-0.5581560134887695,142,1.0
+BIO,Bilbao Airport,Bilbao,Spain,43.30110168457031,-2.9106099605560303,138,1.0
+BCN,Barcelona International Airport,Barcelona,Spain,41.2971,2.07846,12,1.0
+IBZ,Ibiza Airport,Ibiza,Spain,38.8728981018,1.3731199502899998,24,1.0
+MAD,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,40.471926,-3.56264,1998,1.0
+AGP,Málaga Airport,Malaga,Spain,36.67490005493164,-4.499110221862793,53,1.0
+VLC,Valencia Airport,Valencia,Spain,39.4893,-0.481625,240,1.0
+SVQ,Sevilla Airport,Sevilla,Spain,37.417999267578125,-5.8931097984313965,112,1.0
+TLS,Toulouse-Blagnac Airport,Toulouse,France,43.629101,1.36382,499,1.0
+LYS,Lyon Saint-Exupéry Airport,Lyon,France,45.725556,5.081111,821,1.0
+MRS,Marseille Provence Airport,Marseille,France,43.439271922,5.22142410278,74,1.0
+NCE,Nice-Côte d'Azur Airport,Nice,France,43.6584014893,7.215869903560001,12,1.0
+CDG,Charles de Gaulle International Airport,Paris,France,49.012798,2.55,392,1.0
+ORY,Paris-Orly Airport,Paris,France,48.7233333,2.3794444,291,1.0
+NTE,Nantes Atlantique Airport,Nantes,France,47.153198242200006,-1.61073005199,90,1.0
+BSL,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,47.59,7.5291667,885,1.0
+HER,Heraklion International Nikos Kazantzakis Airport,Heraklion,Greece,35.3396987915,25.1802997589,115,2.0
+RHO,Diagoras Airport,Rhodos,Greece,36.405399322509766,28.086200714111328,17,2.0
+SKG,Thessaloniki Macedonia International Airport,Thessaloniki,Greece,40.51969909667969,22.97089958190918,22,2.0
+BUD,Budapest Liszt Ferenc International Airport,Budapest,Hungary,47.42976,19.261093,495,1.0
+CTA,Catania-Fontanarossa Airport,Catania,Italy,37.466801,15.0664,39,1.0
+MXP,Malpensa International Airport,Milano,Italy,45.6306,8.72811,768,1.0
+BGY,Il Caravaggio International Airport,Bergamo,Italy,45.673901,9.70417,782,1.0
+BLQ,Bologna Guglielmo Marconi Airport,Bologna,Italy,44.5354,11.2887,123,1.0
+VCE,Venice Marco Polo Airport,Venice,Italy,45.505299,12.3519,7,1.0
+FCO,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,41.8002778,12.2388889,13,1.0
+NAP,Naples International Airport,Naples,Italy,40.886002,14.2908,294,1.0
+PSA,Pisa International Airport,Pisa,Italy,43.683899,10.3927,6,1.0
+PRG,Václav Havel Airport Prague,Prague,Czech Republic,50.1008,14.26,1247,1.0
+VIE,Vienna International Airport,Vienna,Austria,48.110298156738,16.569700241089,600,1.0
+FAO,Faro Airport,Faro,Portugal,37.0144004822,-7.96590995789,24,0.0
+OPO,Francisco de Sá Carneiro Airport,Porto,Portugal,41.2481002808,-8.68138980865,228,0.0
+LIS,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,38.7813,-9.13592,374,0.0
+GVA,Geneva Cointrin International Airport,Geneva,Switzerland,46.23809814453125,6.108950138092041,1411,1.0
+ZRH,Zürich Airport,Zurich,Switzerland,47.464699,8.54917,1416,1.0
+ATH,Eleftherios Venizelos International Airport,Athens,Greece,37.9364013672,23.9444999695,308,2.0
+RIX,Riga International Airport,Riga,Latvia,56.92359924316406,23.971099853515625,36,2.0
+VNO,Vilnius International Airport,Vilnius,Lithuania,54.634102,25.285801,648,2.0
+PMI,Palma De Mallorca Airport,Palma de Mallorca,Spain,39.551700592,2.73881006241,27,1.0
